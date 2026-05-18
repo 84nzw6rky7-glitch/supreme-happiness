@@ -107,13 +107,13 @@ QR owners can:
 
 ### 7.1 QR types
 
-1. **Public profile QR (free)**  
+1. **Public profile QR (free)**
    Primary identity and traffic driver to public page.
-2. **Romantic/private QR (paid tier)**  
+2. **Romantic/private QR (paid tier)**
    Intended for deeper compatibility/personality contexts.
-3. **Meetup/event QR (paid tier)**  
+3. **Meetup/event QR (paid tier)**
    Temporary or context-specific QR for locations, clubs, events, and groups.
-4. **Item-recovery QR (paid tier)**  
+4. **Item-recovery QR (paid tier)**
    For physical objects (backpacks, cards, patches, merchandise).
 
 ### 7.2 QR lifecycle
@@ -236,4 +236,3 @@ QR owners can:
 3. Paid tier pricing and packaging (subscription vs one-time QR purchases)?
 4. How long scan logs and location events should be retained?
 5. Which countries are in initial global launch cohort?
-
