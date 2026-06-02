@@ -1,5 +1,9 @@
 # Supreme Happiness
 
+## Product docs
+
+- `docs/lifetag_mvp_v1.md`: Life Tag MVP V1 product specification based on the current founder vision.
+
 ## Product direction
 
 This project supports a safer social/community experience for younger groups, families, and educators.
